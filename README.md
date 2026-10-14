@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋, I'm Nikhil Kumar Singh
+
+### 🚀 Aspiring Data Scientist | AI/ML Engineer | Python Developer
+
+- 🔭 I’m currently working on AI-powered RAG systems and ATS checkers.
+- 🌱 I’m currently learning advanced Machine Learning architectures.
+- ⚡ Fun fact: I love building real-world automation tools.
+
+### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
 <!--
 **Nikhilsingh123243/Nikhilsingh123243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
